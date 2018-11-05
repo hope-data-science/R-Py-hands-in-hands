@@ -1,6 +1,6 @@
 #R与Python手牵手
 
-源代码分享原作分享，既是学习的过程，又是分享的盛宴~
+源代码奉献原作分享，既是学习的过程，又是分享的盛宴~
 
 # R & Py hands in hands
 Compare and bind the power of R and Python
